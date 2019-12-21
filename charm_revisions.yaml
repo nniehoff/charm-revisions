@@ -4955,7 +4955,7 @@ openstack-dashboard:
     repo: charm-openstack-dashboard
     sha: 182cae38a1eddd4d261d6ce9180fd97d624a230b
     user: openstack
-  last_revision: 295
+  last_revision: 297
   295:
     release: stable/19.10
     repo: charm-openstack-dashboard
@@ -4965,6 +4965,16 @@ openstack-dashboard:
     release: stable/19.10
     repo: charm-openstack-dashboard
     sha: dda4bddce25fe6d7cbebf80d7c18d2aef882c991
+    user: openstack
+  297:
+    release: stable/19.10
+    repo: charm-openstack-dashboard
+    sha: 2ac72c39b480ae07df50edaac9802a7049773ca6
+    user: openstack
+  296:
+    release: stable/19.10
+    repo: charm-openstack-dashboard
+    sha: 2ac72c39b480ae07df50edaac9802a7049773ca6
     user: openstack
 openvswitch-odl:
   14:
@@ -5877,7 +5887,7 @@ vault:
     repo: charm-vault
     sha: 4955be70be9f9c97c714609598964e6abfc8f8aa
     user: openstack
-  last_revision: 31
+  last_revision: 32
   31:
     release: stable/19.10
     repo: charm-vault
@@ -5887,4 +5897,9 @@ vault:
     release: stable/19.10
     repo: charm-vault
     sha: 9189405efd331bb4b24d8fbc168f419e3a296b05
+    user: openstack
+  32:
+    release: stable/19.10
+    repo: charm-vault
+    sha: 52ffa859b6fe670d59d836b7b24544811670a205
     user: openstack
