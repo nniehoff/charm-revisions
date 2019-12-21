@@ -1,2 +1,4 @@
 PyGithub
 theblues
+macaroonbakery
+PyYAML>=5.1
